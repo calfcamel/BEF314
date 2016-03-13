@@ -1,0 +1,4 @@
+38:06:662 Src\NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening C:/Users/calfcamel/Documents/Dolphin Emulator/Wii/title/00000001/00000002/content/title.tmd
+38:06:703 Src\NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening C:/Users/calfcamel/Documents/Dolphin Emulator/Wii/title/00000001/00000002/content/title.tmd
+46:49:666 Src\NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening C:/Users/calfcamel/Documents/Dolphin Emulator/Wii/title/00000001/00000002/content/title.tmd
+46:49:702 Src\NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening C:/Users/calfcamel/Documents/Dolphin Emulator/Wii/title/00000001/00000002/content/title.tmd

@@ -1,0 +1,12 @@
+11 100
+learn 1 1
+learn 1 2
+clone 1
+learn 2
+check 1
+check 2
+rollback 2
+check 2
+rollback 2
+check 2
+check 2 
